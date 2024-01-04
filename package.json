@@ -1,0 +1,23 @@
+{
+  "name": "parcel-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StepanRychikhin2/parcel-hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StepanRychikhin2/parcel-hw/issues"
+  },
+  "homepage": "https://github.com/StepanRychikhin2/parcel-hw#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
